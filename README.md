@@ -21,7 +21,6 @@ The robot moves forward when the path is clear. When it detects an obstacle, it 
   - LiDAR sensor
   - `/scan` topic
   - `/cmd_vel` velocity control
-
 ## ROS 2 Topics
 
 ### Subscribed topic
